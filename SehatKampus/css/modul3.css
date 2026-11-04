@@ -1,0 +1,10 @@
+.form-card{border-top:6px solid var(--c5)}
+.price-num{font-size:2rem;font-weight:700;color:var(--c5d)}
+.price-card li i{color:var(--c4)}
+.price-featured{background:var(--c5);color:#fff;border-color:var(--c5)}
+.price-featured .price-num,.price-featured li i{color:#fff}
+.price-featured .btn-sk{background:#fff;color:var(--c5d)}
+@media(min-width:768px){.price-featured{transform:scale(1.05)}}
+.testi-wrap{background:var(--c1);border-radius:1.5rem;padding:3rem 3rem 2rem}
+.testi i{color:var(--c5)}
+.carousel-control-prev-icon,.carousel-control-next-icon{filter:invert(1) brightness(.3)}

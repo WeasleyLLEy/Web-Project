@@ -1,0 +1,5 @@
+.article-body p,.article-body li{line-height:1.9;max-width:70ch}
+.article-body h2{color:var(--c5d)}
+.side-sticky{position:sticky;top:5.5rem}
+details{background:#fff;border:1px solid var(--c2);border-radius:.75rem;padding:.8rem 1rem}
+summary{cursor:pointer}
